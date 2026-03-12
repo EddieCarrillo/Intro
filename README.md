@@ -14,6 +14,8 @@ Any private repos I don't mind being public I might post here, or, under the Sup
 
 Learn in public?
 
+I like to reverse engineer things then do write-ups, so, might make this my spot for that.
+
 ### Can you be more clear?
 I write code for private projects on a private repo on a private network, but you can't see this or verify this and it makes it look like I have no activity until releases, so, going to start posting things here
 
